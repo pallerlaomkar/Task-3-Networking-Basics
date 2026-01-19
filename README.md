@@ -50,9 +50,6 @@ Task-3-Networking-Basics/
 ├── network_analysis_task3.pcapng
 ├── Task_3_Networking_Basics_Analysis_Report.pdf
 ├── README.md
-└── screenshots/
-    ├── tcp_handshake.png
-    ├── dns_capture.png
 ```
 
 ---
